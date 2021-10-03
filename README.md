@@ -1,5 +1,22 @@
 # EduHub- SE PROJECT
 
+# Contributions 
+
+Main sections of short ppt (Min 15 slides)
+
+# Feasibility Study Phase
+Description and Outcomes
+
+# Requirement Analysis Phase
+Functionalities
+Hardware and software specifications 
+Schema
+
+# Design Phase
+DFD
+Activity Diagram
+
+
 Resources:
 https://medium.com/flutterdevs/implement-searching-with-firebase-firestore-flutter-de7ebd53c8c9   -- able to search even if a substring is typed.
 
