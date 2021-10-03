@@ -1,18 +1,33 @@
 # EduHub- SE PROJECT
+## Project Description:
+An open platform for all the events, boot camps, webinars from all the colleges to extend their reach and for students to register for various events. The University/Club admin must register on the platform to post the events held by their college. Users can use various filters/tags like Free or paid events, colleges, duration of the event to search for events. Users can also integrate their google calendar to keep track of the events they have registered for.
 
 # Contributions 
 
 ## Feasibility Study Phase
-Description and Outcomes
+Description and Outcomes<br>
+-> Brainstorming sessions - Whole team 
 
 ## Requirement Analysis Phase
-Functionalities
-Hardware and software specifications 
-Schema
+### Functionalities
+-> Register/Login - Chintamani <br>
+-> Search - Sravani <br>
+-> Event Registration - Kruthika <br>
+-> Profile Update - Vinesh <br>
+-> View Event details - Madhan <br>
+-> Publish - Madhan <br>
+-> Calendar Integration - Vinesh <br>
+
+### Hardware and Software specifications 
+-> Sravani & Chintamani <br>
+### Schema
+-> Kruthika <br>
 
 ## Design Phase
-DFD
-Activity Diagram
+### DFD
+-> Madhan & Vinesh
+### Activity Diagram
+-> Whole team 
 
 
 # Resources:
