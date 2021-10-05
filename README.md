@@ -22,7 +22,6 @@ Description and Outcomes<br>
 -> Sravani & Chintamani <br>
 ### Schema
 -> Kruthika <br>
-
 ## Design Phase
 ### DFD
 -> Madhan & Vinesh
