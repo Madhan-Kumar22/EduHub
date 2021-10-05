@@ -1,4 +1,4 @@
-# EduHub- SE PROJECT
+# EduHub- SE Project
 ## Project Description:
 An open platform for all the events, boot camps, webinars from all the colleges to extend their reach and for students to register for various events. The University/Club admin must register on the platform to post the events held by their college. Users can use various filters/tags like Free or paid events, colleges, duration of the event to search for events. Users can also integrate their google calendar to keep track of the events they have registered for.
 
