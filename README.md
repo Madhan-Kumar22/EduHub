@@ -33,3 +33,13 @@ Description and Outcomes<br>
 https://medium.com/flutterdevs/implement-searching-with-firebase-firestore-flutter-de7ebd53c8c9   -- able to search even if a substring is typed.
 
 https://medium.com/flutter-community/implementing-auto-complete-search-list-a8dd192bd5f6  -- auto complete search. 
+
+https://www.youtube.com/watch?v=iNFGklaTlFo&ab_channel=Shiru99 (Event management)
+
+https://github.com/Shiru99/Event-Management-System
+
+Only for frontend looks 
+
+https://github.com/roshaans/WesEvents
+
+https://github.com/Alexoid1/Private-events
