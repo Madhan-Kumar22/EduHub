@@ -28,6 +28,11 @@ Description and Outcomes<br>
 ### Activity Diagram
 -> Whole team 
 
+# Login Credentials:
+
+## AWS Login:
+Email: madhanstarc@gmail.com <br>
+Password: EduHub@2021
 
 # Resources:
 https://medium.com/flutterdevs/implement-searching-with-firebase-firestore-flutter-de7ebd53c8c9   -- able to search even if a substring is typed.
