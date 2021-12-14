@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950419644620",
+    "project_id": "eduhub-ba210",
+    "storage_bucket": "eduhub-ba210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950419644620:android:a5571d22caa3f46a142269",
+        "android_client_info": {
+          "package_name": "com.myapp.eventmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950419644620-h0ksj90pq8hgpinhn2os5roq9iurdhna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.eventmanager",
+            "certificate_hash": "13d79f38734116edde379d0df6d88e4b8aa1dc83"
+          }
+        },
+        {
+          "client_id": "950419644620-ugokpmgcd8sfftaldjsq4mii10r48dpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2UO7jdgExxzAw83vXPnTfJJJd0G-42EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950419644620-ugokpmgcd8sfftaldjsq4mii10r48dpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
